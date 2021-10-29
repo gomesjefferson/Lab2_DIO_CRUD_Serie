@@ -1,0 +1,16 @@
+D:\Development\DotNet_DIO\Lab-2\Projeto_LAB_2_Cadastro_Serie\bin\Debug\net5.0\Projeto_LAB_2_Cadastro_Serie.exe
+D:\Development\DotNet_DIO\Lab-2\Projeto_LAB_2_Cadastro_Serie\bin\Debug\net5.0\Projeto_LAB_2_Cadastro_Serie.deps.json
+D:\Development\DotNet_DIO\Lab-2\Projeto_LAB_2_Cadastro_Serie\bin\Debug\net5.0\Projeto_LAB_2_Cadastro_Serie.runtimeconfig.json
+D:\Development\DotNet_DIO\Lab-2\Projeto_LAB_2_Cadastro_Serie\bin\Debug\net5.0\Projeto_LAB_2_Cadastro_Serie.runtimeconfig.dev.json
+D:\Development\DotNet_DIO\Lab-2\Projeto_LAB_2_Cadastro_Serie\bin\Debug\net5.0\Projeto_LAB_2_Cadastro_Serie.dll
+D:\Development\DotNet_DIO\Lab-2\Projeto_LAB_2_Cadastro_Serie\bin\Debug\net5.0\ref\Projeto_LAB_2_Cadastro_Serie.dll
+D:\Development\DotNet_DIO\Lab-2\Projeto_LAB_2_Cadastro_Serie\bin\Debug\net5.0\Projeto_LAB_2_Cadastro_Serie.pdb
+D:\Development\DotNet_DIO\Lab-2\Projeto_LAB_2_Cadastro_Serie\obj\Debug\net5.0\Projeto_LAB_2_Cadastro_Serie.csproj.AssemblyReference.cache
+D:\Development\DotNet_DIO\Lab-2\Projeto_LAB_2_Cadastro_Serie\obj\Debug\net5.0\Projeto_LAB_2_Cadastro_Serie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\DotNet_DIO\Lab-2\Projeto_LAB_2_Cadastro_Serie\obj\Debug\net5.0\Projeto_LAB_2_Cadastro_Serie.AssemblyInfoInputs.cache
+D:\Development\DotNet_DIO\Lab-2\Projeto_LAB_2_Cadastro_Serie\obj\Debug\net5.0\Projeto_LAB_2_Cadastro_Serie.AssemblyInfo.cs
+D:\Development\DotNet_DIO\Lab-2\Projeto_LAB_2_Cadastro_Serie\obj\Debug\net5.0\Projeto_LAB_2_Cadastro_Serie.csproj.CoreCompileInputs.cache
+D:\Development\DotNet_DIO\Lab-2\Projeto_LAB_2_Cadastro_Serie\obj\Debug\net5.0\Projeto_LAB_2_Cadastro_Serie.dll
+D:\Development\DotNet_DIO\Lab-2\Projeto_LAB_2_Cadastro_Serie\obj\Debug\net5.0\ref\Projeto_LAB_2_Cadastro_Serie.dll
+D:\Development\DotNet_DIO\Lab-2\Projeto_LAB_2_Cadastro_Serie\obj\Debug\net5.0\Projeto_LAB_2_Cadastro_Serie.pdb
+D:\Development\DotNet_DIO\Lab-2\Projeto_LAB_2_Cadastro_Serie\obj\Debug\net5.0\Projeto_LAB_2_Cadastro_Serie.genruntimeconfig.cache
