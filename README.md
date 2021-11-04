@@ -8,7 +8,7 @@
 
 Jefferson Gomes
 
-Linkedin:  [linkedin.com/in/jefferson-dos-santos-gomes](http://https://linkedin.com/in/jefferson-dos-santos-gomes)
+Linkedin:  [linkedin.com/in/jefferson-dos-santos-gomes](https://linkedin.com/in/jefferson-dos-santos-gomes)
 
 Instagram:  [instagram.com/biigjeph](https://instagram.com/biigjeph)
 
