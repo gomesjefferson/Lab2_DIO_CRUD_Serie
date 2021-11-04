@@ -15,20 +15,18 @@ namespace Projeto_LAB_2_Cadastro_Serie
 				{
 					case "1":
 						InserirSerie();
-						//ListarSeries();
 						break;
 					case "2":
 						ListarSeries();
-						//InserirSerie();
 						break;
 					case "3":
 						AtualizarSerie();
 						break;
 					case "4":
-						ExcluirSerie();
+						VisualizarSerie();
 						break;
 					case "5":
-						VisualizarSerie();
+						ExcluirSerie();
 						break;
 					case "C":
 						Console.Clear();
@@ -151,13 +149,11 @@ namespace Projeto_LAB_2_Cadastro_Serie
 			Console.WriteLine("DIO Séries a seu dispor!!!");
 			Console.WriteLine("Informe a opção desejada:");
 
-			//Console.WriteLine("1- Listar séries");
 			Console.WriteLine("1- Inserir nova série");
 			Console.WriteLine("2- Listar séries");
-			//Console.WriteLine("2- Inserir nova série");
 			Console.WriteLine("3- Atualizar série");
-			Console.WriteLine("4- Excluir série");
-			Console.WriteLine("5- Visualizar série");
+			Console.WriteLine("4- Visualizar série");
+			Console.WriteLine("5- Excluir série");
 			Console.WriteLine("C- Limpar Tela");
 			Console.WriteLine("X- Sair");
 			Console.WriteLine();
