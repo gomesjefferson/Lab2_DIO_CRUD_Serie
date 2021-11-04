@@ -2,7 +2,7 @@
 
 ## Criando um APP de cadastro em memória
 
-[Slides](App-de-Cadastro-de-Series.pdf)
+[Manual de Usabilidade](App-de-Cadastro-de-Series.pdf)
 
 ## Contato
 
