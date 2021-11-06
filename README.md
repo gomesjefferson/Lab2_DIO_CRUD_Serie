@@ -10,6 +10,4 @@ Jefferson Gomes
 
 Linkedin:  [linkedin.com/in/jefferson-dos-santos-gomes](https://linkedin.com/in/jefferson-dos-santos-gomes)
 
-Instagram:  [instagram.com/biigjeph](https://instagram.com/biigjeph)
-
 Github:  [github.com/gomesjefferson](https://github.com/gomesjefferson)
